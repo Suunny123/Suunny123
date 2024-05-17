@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Sunny123
-- 👀 I’m interested in ...Hacking
-- 🌱 I’m currently learning ...10th
-- 💞️ I’m looking to collaborate on ...Instagram
-- 📫 How to reach me ...Fast
+
 - 😄 Pronouns: ...Yes
 - ⚡ Fun fact: ...
   
